@@ -1,0 +1,45 @@
+body{
+    background-image:linear-gradient(
+        rgb(136, 136, 249),
+        rgb(244, 130, 69),
+        white
+    );
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.spa{
+    background-color: rgb(149, 149, 246);
+    height: 200px;
+    text-align: left;
+    border: 2px solid black;
+    margin: 10px 100px;
+    overflow: auto;
+}
+.form,.submit{
+    line-height: 50px;
+    font-size: large;
+}
+input,.submit{
+    border-radius: 10px;
+    border: 2px solid black;
+    line-height: 30px;
+    background-color: rgb(175, 175, 244);
+}
+.submit{
+    line-height: 30px;
+    width: 200px;
+    padding: 10px;
+    margin: 30px;
+
+}
+.content{
+    background-color: rgb(244, 84, 84);
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 5px 20px 8px 20px;
+    line-height: 50px;
+}
+p{
+    border-radius: 10px;
+   /* background-color: red; */
+}
